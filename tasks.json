@@ -2,5 +2,9 @@
   {
     "task": "5+2",
     "completed": false
+  },
+  {
+    "task": "5*5*5 = 125",
+    "completed": false
   }
 ]
